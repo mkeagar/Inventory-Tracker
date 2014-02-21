@@ -1,3 +1,3 @@
 Inventory-Tracker
 =================
-Nothing to see here
+A Home Inventory Tracker project for CS 340 at Brigham Young University.  
